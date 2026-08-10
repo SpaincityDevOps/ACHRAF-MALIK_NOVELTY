@@ -46,7 +46,9 @@ A comprehensive lead generation platform designed to automate the process of dis
 * Scalable backend architecture
 * Database-driven management
 
-This project demonstrates my ability to build business automation software that improves productivity and streamlines customer acquisition workflows.
+This project demonstrates my ability to build business automation software that improves productivity and streamlines customer acquisition workflows
+
+https://globalleads-intl.onrender.com/
 
 ---
 
@@ -66,6 +68,8 @@ A feature-rich Aviator gaming application built with modern development practice
 
 This project showcases frontend development, backend engineering, and scalable application design.
 
+https://frontend-production-b9f0.up.railway.app/game
+
 ---
 
 ## 🌐 Personal Portfolio Website
@@ -75,6 +79,8 @@ One of my favorite projects.
 Rather than simply listing my skills, my portfolio demonstrates how I think, design, and build software. It reflects my commitment to clean architecture, responsive interfaces, maintainable code, performance optimization, and excellent user experience.
 
 It serves as both a personal brand and a living showcase of my development journey.
+
+https://spaincityevo.onrender.com/
 
 ---
 
@@ -92,6 +98,8 @@ A modern business website built for a bakery with an emphasis on usability, bran
 * Modern UI/UX
 
 The project highlights my ability to develop professional websites tailored to real business requirements.
+
+https://honeypotbakery.onrender.com
 
 ---
 
@@ -231,5 +239,10 @@ I'm always interested in challenging software projects, innovative ideas, and op
 If you're looking for someone passionate about automation, backend systems, modern web development, APIs, or scalable software architecture, feel free to explore my repositories and follow my journey.
 
 ---
+
+
+https://idulapark.onrender.com/
+https://honeypotbakery.onrender.com/
+https://globalleads-intl.onrender.com/
 
 > **"I build software that automates workflows, solves real-world problems, and transforms ambitious ideas into scalable digital solutions."**
