@@ -240,9 +240,4 @@ If you're looking for someone passionate about automation, backend systems, mode
 
 ---
 
-
-https://idulapark.onrender.com/
-https://honeypotbakery.onrender.com/
-https://globalleads-intl.onrender.com/
-
 > **"I build software that automates workflows, solves real-world problems, and transforms ambitious ideas into scalable digital solutions."**
