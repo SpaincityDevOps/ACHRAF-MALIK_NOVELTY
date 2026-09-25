@@ -33,6 +33,10 @@ I specialize in designing and building:
 
 # 🚀 Featured Projects
 
+
+## BABYSTEPS
+If you're a Python dev and you don't have the skills to put up a tic-tac-toe game, rock-paper-scissors or just a simple Mad-Libs game then you didn't start right.
+
 ## 🎯 Leads Generation Engine
 
 A comprehensive lead generation platform designed to automate the process of discovering, organizing, filtering, and managing business leads.
@@ -48,7 +52,7 @@ A comprehensive lead generation platform designed to automate the process of dis
 
 This project demonstrates my ability to build business automation software that improves productivity and streamlines customer acquisition workflows
 
-https://globalleads-intl.onrender.com/
+https://globalleads.spaincityevo.site/
 
 ---
 
@@ -68,7 +72,7 @@ A feature-rich Aviator gaming application built with modern development practice
 
 This project showcases frontend development, backend engineering, and scalable application design.
 
-https://frontend-production-b9f0.up.railway.app/game
+INACTIVE-LINK - https://frontend-production-b9f0.up.railway.app/game (project passed the live test)
 
 ---
 
@@ -80,7 +84,7 @@ Rather than simply listing my skills, my portfolio demonstrates how I think, des
 
 It serves as both a personal brand and a living showcase of my development journey.
 
-https://spaincityevo.onrender.com/
+https://spaincityevo.site/
 
 ---
 
@@ -191,6 +195,7 @@ The modular architecture allows new payment providers and automation workflows t
 * Git
 * GitHub
 * Docker
+* Firebase
 * Cloud Deployment
 * CI/CD
 * Linux
